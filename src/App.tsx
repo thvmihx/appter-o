@@ -47,13 +47,13 @@ function StaticPhoto({
   return (
     <div
       id={id}
+      className={className}
       style={{
         position: "relative",
         display: "block",
         overflow: "hidden",
         ...style,
       }}
-      className={className}
     >
       <img
         src={src}
