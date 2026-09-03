@@ -18,3 +18,14 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+# Cache e arquivos temporários do Figma
+.figma/
+.figma/make/
+
+# Arquivos de design brutos e binários
+*.psd
+*.fig
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
