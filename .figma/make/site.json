@@ -1,0 +1,10 @@
+{
+  "description": "Connect with a welcoming Catholic community through a modern portfolio site that promotes prayer, unity, and devotion, inviting families to participate.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
